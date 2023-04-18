@@ -7,4 +7,6 @@
  **git log** - вывод на экран всех коммитов, с их хэш-кодом.
 
  **git push** - отправка локального репозитория на удаленный сервер.
+
+ Link to your repository on my page. - https://github.com/Denis769T/myTestRepo/blob/main/info2.md
  
